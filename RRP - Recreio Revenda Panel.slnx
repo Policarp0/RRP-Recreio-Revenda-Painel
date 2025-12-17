@@ -1,4 +1,6 @@
 <Solution>
-  <Project Path="Domain/Domain.csproj" />
-  <Project Path="RRP/RRP.csproj" />
+  <Project Path="Domain/RRP.Domain.csproj" />
+  <Project Path="Infrastructure/RRP.Infrastructure.csproj" Id="f20f4bcd-c6a3-47cf-9389-83d9d58fe3cc" />
+  <Project Path="RRP.Application/RRP.Application.csproj" Id="4fcb462e-c9a5-497b-81c3-a0914ce6caae" />
+  <Project Path="RRP.Interface/RRP.WinForms.csproj" Id="29b729ba-dc1c-43e2-93e6-c73874752196" />
 </Solution>
